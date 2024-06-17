@@ -31,7 +31,7 @@ const ThankYou = () => {
       </div>
       <h1 className='text-white font-semibold text-2xl text-center'>Thank You!</h1>
       <div>
-        <p className='text-gray-500 font-medium text-center text-sm'>We appreciate you taking the time to give a rating, if you ever need more supprt, don't hesitate to get in touch!</p>
+        <p className='text-gray-500 font-medium text-center text-sm'>We appreciate you taking the time to give a rating, if you ever need more supprt, dont hesitate to get in touch!</p>
       </div>
     </div>
     </main>
